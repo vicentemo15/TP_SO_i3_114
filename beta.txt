@@ -1,0 +1,27 @@
+Marcos Sopelana 19:24
+Adaptador de Ethernet Ethernet 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 9:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Sufijo DNS específico para la conexión. . : pcnat.telecentro.net.ar
+   Dirección IPv6 . . . . . . . . . . : 2800:810:4e5:9b01::1
+   Dirección IPv6 . . . . . . . . . . : 2800:810:4e5:9b01:7445:92b:24ad:26a4
+   Dirección IPv6 temporal. . . . . . : 2800:810:4e5:9b01:ed55:6b0f:b1ed:943b
+   Vínculo: dirección IPv6 local. . . : fe80::7445:92b:24ad:26a4%14
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.16
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::a608:f5ff:fe19:170c%14
+                                       192.168.0.1
