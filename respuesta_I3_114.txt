@@ -14,7 +14,13 @@ Git push.
 
 Responde GAMMA:
 d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+si quedan con datos actualizados
 e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+no deberia tener ningun error , pero lo tuvo porque se habia modificado el main , tuve que traer y hacer el pull del main porque se habia hecho un cambio , si era para presentar ningun tipo error si no fuese modificado eso.
 f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+git clone
+git checkout Montilla
+git commit
+git push
 Responde ALFA:
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
