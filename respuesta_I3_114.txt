@@ -24,3 +24,12 @@ git commit
 git push
 Responde ALFA:
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+
+Responde ALPHA:
+g-¿que debiò hacer (todos lo comandos) en el punto 8 para poder hacer lo pedido?
+git checkout -b Montilla
+git pull origin Montilla:Montilla
+-realizar cambios en rama local Montilla-
+git add .
+git commit -m ""
+git push origin Montilla 
